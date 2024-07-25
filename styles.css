@@ -1,0 +1,16 @@
+.recipe-page
+{
+    display: grid;
+    width: 600px;
+    align-content: center;
+}
+
+img {
+    width: 600px;
+    height: auto;
+}
+
+img:hover
+{
+    border: 5px solid red;
+}
