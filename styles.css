@@ -70,6 +70,11 @@ body {
   border: 1px solid transparent;
 }
 
+.card:hover
+{
+  transform: translate3d(0, -1px, 0) scale(1.03);
+}
+
 .card a {
   text-decoration: none
 }
